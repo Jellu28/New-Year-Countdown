@@ -1,4 +1,4 @@
-Active project link is here => (https://jellu28.github.io/New-Year-Countdown/)
+Active project link is here => https://jellu28.github.io/New-Year-Countdown/
 
 < Overview >
 
